@@ -8,6 +8,6 @@ b = Convert.ToInt32(Console.ReadLine());
  }
  else
 {
- Console.WriteLine("{0} наибольшее число ", b);
+ Console.WriteLine("{0} наименьшее число ", b);
  Console.ReadLine();
 }
